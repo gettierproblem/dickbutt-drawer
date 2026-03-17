@@ -4,6 +4,10 @@ AutoHotkey v2 script that automatically draws the classic dickbutt meme using mo
 
 ![Reference](reference.jpg)
 
+### Example Output
+
+![Example](example.png)
+
 ## Usage
 
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)
